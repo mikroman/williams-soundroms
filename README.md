@@ -1,6 +1,6 @@
 # williams-soundroms
 
-Williams source code for the sound.
+Williams source code for sound.
 soundboards (6800)
 
 Defender
